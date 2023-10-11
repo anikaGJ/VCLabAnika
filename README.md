@@ -6,10 +6,13 @@ repository for 10/04 lab
 This program is a fortune teller. It takes in a user's name and asks them to pick a number from 1-10. Based on the number that the user picks, the program will print the user's name and a fortune for them. 
 
 ### How to use the program
-Running through JupyterHub
+
+Run it through Jupyter Hub!
 1. Log into your JupyterHub account
 2. Open a new terminal
 3. Clone the repository with command git clone https://github.com/nruchira/VCLab.git
+4. Run VersionControlFinal.ipynb
+5. Follow the prompts!
 
 ### Group Members:
 
