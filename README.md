@@ -30,6 +30,8 @@ Run it through Jupyter Hub!
 
 **Code of Conduct**: We chose the Contributor Covenant Code of Conduct because it harbors a safe and inclusive social and progamming environment. Contributors must refrain from changing the software in a way that is harmful or hurtful to either the software or the users of the software. For our fortune-telling program, this is essential because we don't want anyone changing the printed fortunes to be rude or harmful statements.
 
+**LICENSE**: We chose the MIT License because it preserves our copyright but we also did not want to limit our contributers to what they are allowed to do with our code.
+
 ### Group Members:
 
 Ruchira Nimmagadda
