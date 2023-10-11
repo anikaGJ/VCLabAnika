@@ -25,6 +25,11 @@ Run it through Jupyter Hub!
 6. Use a git push command to push your code to the main. 
 7. Make a pull request in GitHub!
 
+## Miscellany
+**Why we chose the following:**
+
+**Code of Conduct**: We chose the Contributor Covenant Code of Conduct because it harbors a safe and inclusive social and progamming environment. Contributors must refrain from changing the software in a way that is harmful or hurtful to either the software or the users of the software. For our fortune-telling program, this is essential because we don't want anyone changing the printed fortunes to be rude or harmful statements.
+
 ### Group Members:
 
 Ruchira Nimmagadda
